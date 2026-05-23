@@ -1,0 +1,55 @@
+aid: tia-women
+url: https://raw.githubusercontent.com/api-evangelist/tia-women/refs/heads/main/apis.yml
+name: Tia
+type: Index
+kind: company
+description: >-
+  Tia is a modern women's healthcare provider offering a hybrid in-person and
+  virtual care model. Services span primary care, sexual and gynecological
+  health, mental health, dermatology, acupuncture, perimenopause and
+  menopause care, and weight management and metabolic health. Tia operates
+  in-person clinics in Los Angeles (Culver City, Pasadena, Playa Vista,
+  Silver Lake, Studio City, West Hollywood), Scottsdale (AZ), San Francisco
+  (CA), and New York (Soho, Williamsburg), and supports virtual visits across
+  served states. Pricing combines a Tia Membership ($25/mo or $240/yr) with a
+  pay-as-you-go Tia Essential option; most major PPOs are accepted. Tia is
+  primarily a consumer healthcare service; no public developer or partner API
+  has been identified. This entry catalogs the company surface for the API
+  Evangelist index.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Femtech
+  - Women's Health
+  - Primary Care
+  - Mental Health
+  - Gynecology
+  - Menopause
+  - Virtual Care
+  - Healthcare Clinics
+  - Membership
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://asktia.com/
+  - type: CareTeam
+    url: https://asktia.com/care-team/
+  - type: Locations
+    url: https://asktia.com/locations/
+  - type: Membership
+    url: https://asktia.com/membership/
+  - type: Outcomes
+    url: https://asktia.com/article/2024-Outcomes-Report/
+  - type: Careers
+    url: https://asktia.com/careers/
+  - type: PrivacyPolicy
+    url: https://asktia.com/privacy-policy/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/asktia/
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
