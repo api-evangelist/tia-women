@@ -34,6 +34,8 @@ tags:
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/tia-women-domain-security.yml
   - type: Website
     url: https://asktia.com/
   - type: CareTeam
